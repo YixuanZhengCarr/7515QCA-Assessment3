@@ -1,4 +1,4 @@
-# 1701QCA Making Interaction - Assessment 3 workbook
+# 7515QCA Making Interaction - Assessment 3 workbook
 
 You will use GitHub to keep track of your progress through the course and also as a process journal to document the making of your projects.
 
