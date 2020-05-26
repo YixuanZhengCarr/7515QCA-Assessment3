@@ -33,8 +33,8 @@ As a novice to programs and devices, try to use. But Not really.
 ### Code ###
 First Time learning and trying to write code with Arduino
 
-![Image](33.jpg)
-![Image](34.jpg)
+![Image](33.png)
+![Image](34.png)
 
 ### Production Record ###
 
@@ -47,7 +47,7 @@ First Time learning and trying to write code with Arduino
 https://youtu.be/-iNegEs__PQ
 
 
-
+## Thank you for reading ##
 
 
 
